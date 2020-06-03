@@ -23,4 +23,11 @@
     	<version>1.1.1</version>
     </dependency>
   </dependencies>
+  <properties>
+  <sonar.projectKey>francesco1997_prova-maven</sonar.projectKey>
+  <sonar.links.homepage>https://github.com/francesco1997/prova-maven</sonar.links.homepage>
+  <sonar.links.ci>https://travis-ci.org/francesco1997/prova-maven</sonar.links.ci>
+  <sonar.links.scm>https://github.com/francesco1997/prova-maven</sonar.links.scm>
+  <sonar.links.issue>https://github.com/francesco1997/prova-maven/issues</sonar.links.issue>
+</properties>
 </project>
